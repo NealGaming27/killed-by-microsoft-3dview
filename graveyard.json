@@ -1895,3 +1895,14 @@
     "type": "hardware"
   }
 ]
+ {
+    "dateClose": "2026-07-01",
+    "dateOpen": "2016-03-11",
+    "description": "3D Viewer (formerly Mixed Reality Viewer and before that, View 3D) is a 3D computer graphics viewer and augmented reality application that was first included in Windows 10 1703. It supports multiple file formats, including the .fbx, .3mf, .obj, and .stl.
+    "link": "https://en.wikipedia.org/wiki/Microsoft_3D_Viewer",
+    "links": [
+      "https://www.xda-developers.com/microsoft-is-deprecating-a-windows-11-app-that-i-dont-remember-ever-using/#:~:text=Note%20that%20it%20doesn't,be%20usable%20come%20July%201st.&text=We%20want%20to%20hear%20from,%2C%20inappropriate%20language%2C%20or%20spam.&text=I%20use%20it%20to%20quickly,for%20to%20bring%20these%20back."
+    ],
+    "name": "3D Viewer",
+    "type": "app"
+  },
